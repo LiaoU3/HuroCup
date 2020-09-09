@@ -1,0 +1,5 @@
+<launch>
+	<node name = "marathon_line_detector" pkg = "marathon_line_detector" type = "marathon_line_detector.py" />
+	<node name = "darwin_motion_bridge" pkg = "darwin_motion_bridge" type = "darwin_motion_bridge.py" />
+	<node name = "marathon_player" pkg = "marathon_player" type = "marathon_player.py" output = "screen"/>
+</launch>

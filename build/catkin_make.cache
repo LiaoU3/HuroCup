@@ -1,0 +1,2 @@
+aruco_tracker:darwin_motion_bridge:robot_msgs:sprint_player:sprint_player_bringup
+-DCATKIN_DEVEL_PREFIX=/home/tinker/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tinker/catkin_ws/install -G Unix Makefiles

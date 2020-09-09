@@ -1,0 +1,8 @@
+prefix=/home/tinker/catkin_ws/devel
+
+Name: aruco_tracker
+Description: Description of aruco_tracker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

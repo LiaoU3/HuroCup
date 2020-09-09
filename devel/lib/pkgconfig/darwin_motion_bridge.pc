@@ -1,0 +1,8 @@
+prefix=/home/tinker/catkin_ws/devel
+
+Name: darwin_motion_bridge
+Description: Description of darwin_motion_bridge
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

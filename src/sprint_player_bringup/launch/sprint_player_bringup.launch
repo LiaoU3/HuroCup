@@ -1,0 +1,5 @@
+<launch>
+	<node name = "aruco_tracker" pkg = "aruco_tracker" type = "aruco_tracker.py" />
+	<node name = "darwin_motion_bridge" pkg = "darwin_motion_bridge" type = "darwin_motion_bridge.py" />
+	<node name = "sprint_player" pkg = "sprint_player" type = "sprint_player.py" output = "screen"/>
+</launch>

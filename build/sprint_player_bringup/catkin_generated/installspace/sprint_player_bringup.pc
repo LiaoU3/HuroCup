@@ -1,0 +1,8 @@
+prefix=/home/tinker/catkin_ws/install
+
+Name: sprint_player_bringup
+Description: Description of sprint_player_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

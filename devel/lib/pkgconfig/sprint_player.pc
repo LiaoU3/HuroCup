@@ -1,0 +1,8 @@
+prefix=/home/tinker/catkin_ws/devel
+
+Name: sprint_player
+Description: Description of sprint_player
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
