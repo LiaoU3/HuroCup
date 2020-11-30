@@ -38,7 +38,7 @@ if __name__ =='__main__':
     lower_red = np.array([156,43,46]) 
     upper_red = np.array([180, 255, 255])
     
-    rospy.loginfo("YES I AM RUNNINGINGINGINIG")
+    rospy.loginfo("RUNNING...")
 
     ###------------------ ARUCO TRACKER ---------------------------
     while not rospy.is_shutdown():
